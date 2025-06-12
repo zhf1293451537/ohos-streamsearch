@@ -19,7 +19,7 @@ Installation
 ============
 - OpenHarmony (ohos-streamsearch):
   ```js
-    ohpm install @Sett/ohos-streamsearch
+    ohpm install @sett/ohos-streamsearch
   ```
 - Node.js (streamsearch):
   ```js
@@ -30,7 +30,7 @@ Example
 =======
 
 ```js
-  import StreamSearch from '@Sett/ohos-streamsearch'; // OpenHarmony
+  import StreamSearch from '@sett/ohos-streamsearch'; // OpenHarmony
 // 或 const StreamSearch = require('streamsearch'); // Node.js
   import buffer from '@ohos.buffer'; // OpenHarmony only
 

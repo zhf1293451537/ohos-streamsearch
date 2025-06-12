@@ -1,5 +1,5 @@
 import { describe, beforeAll, beforeEach, afterEach, afterAll, it, expect } from '@ohos/hypium';
-import StreamSearch from '@Sett/ohos-streamsearch'
+import StreamSearch from '@sett/ohos-streamsearch'
 import { buffer } from '@kit.ArkTS';
 
 export default function StreamSearchTest() {

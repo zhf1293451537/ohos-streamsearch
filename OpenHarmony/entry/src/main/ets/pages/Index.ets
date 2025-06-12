@@ -1,5 +1,5 @@
 import buffer from '@ohos.buffer';
-import StreamSearch  from '@Sett/ohos-streamsearch'
+import StreamSearch  from '@sett/ohos-streamsearch'
 
 @Entry
 @Component

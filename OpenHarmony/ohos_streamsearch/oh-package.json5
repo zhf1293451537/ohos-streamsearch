@@ -18,5 +18,5 @@
   "dependencies": {},
   "license": "MIT",
   "devDependencies": {},
-  "name": "@Sett/ohos-streamsearch"
+  "name": "@sett/ohos-streamsearch"
 }

@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@Sett/ohos-streamsearch": "file:../ohos_streamsearch"
+    "@sett/ohos-streamsearch": "file:../ohos_streamsearch"
   }
 }
 
