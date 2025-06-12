@@ -3,12 +3,11 @@
   "keywords": [
     "OpenHarmony",
     "HarmonyOS",
+    "streamsearch",
+    "Boyer-Moore-Horspool"
   ],
   "author": "Sett",
-  "ohos": {
-    "org": "opensource"
-  },
-  "description": "",
+  "description": "Streaming Boyer-Moore-Horspool searching for OpenHarmony",
   "main": "src/main/ets/lib/sbmh.js",
   "repository": "",
   "type": "module",
@@ -18,5 +17,5 @@
   "dependencies": {},
   "license": "MIT",
   "devDependencies": {},
-  "name": "ohos_streamsearch"
+  "name": "@Sett/ohos-streamsearch"
 }
