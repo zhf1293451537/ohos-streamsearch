@@ -8,6 +8,7 @@
   ],
   "author": "Sett",
   "description": "Streaming Boyer-Moore-Horspool searching for OpenHarmony",
+  "repository": "https://github.com/zhf1293451537/ohos-streamsearch",
   "main": "src/main/ets/lib/sbmh.js",
   "repository": "",
   "type": "module",
