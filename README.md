@@ -12,8 +12,8 @@ Requirements
 ============
 |Module Name|Platform|Environment|
 |--|--|--|
-|ohos-streamsearch|OpenHarmony|DevEco Studio: 5.0.1 Release(5.0.5.315), SDK: API13(5.0.1.111)或更高版本|
-|streamsearch|Node.js|Node.js v10.0.0 或更高版本|
+|ohos-streamsearch|OpenHarmony|DevEco Studio: 5.0.1 Release(5.0.5.315), SDK: API13(5.0.1.111) or newer|
+|streamsearch|Node.js|Node.js v10.0.0 or newer|
 
 Installation
 ============
