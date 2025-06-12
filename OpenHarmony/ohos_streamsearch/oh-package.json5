@@ -1,0 +1,22 @@
+{
+  "types": "index.d.ts",
+  "keywords": [
+    "OpenHarmony",
+    "HarmonyOS",
+  ],
+  "author": "Sett",
+  "ohos": {
+    "org": "opensource"
+  },
+  "description": "",
+  "main": "src/main/ets/lib/sbmh.js",
+  "repository": "",
+  "type": "module",
+  "version": "1.0.0",
+  "tags": [
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "devDependencies": {},
+  "name": "ohos_streamsearch"
+}
