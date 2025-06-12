@@ -1,16 +1,16 @@
 Description
 ===========
 
-streamsearch is a module for [node.js](http://nodejs.org/) that allows searching a stream using the Boyer-Moore-Horspool algorithm.
+ohos-streamsearch 是 Node.js 的 streamsearch 模块在 OpenHarmony 平台上的移植版本。
 
-ohos-streamsearch is a ported version of streamsearch on Node.js for OpenHarmony
+该模块允许你在数据流中使用 Boyer-Moore-Horspool 算法 进行搜索操作，适用于处理大流量数据或分块传输的数据。
 
-This module is based heavily on the Streaming Boyer-Moore-Horspool C++ implementation by Hongli Lai [here](https://github.com/FooBarWidget/boyer-moore-horspool).
+本模块基于 Hongli Lai 的 [Streaming Boyer-Moore-Horspool C++](https://github.com/FooBarWidget/boyer-moore-horspool)实现。
 
 
 Requirements
 ============
-|Module Name|Platform|Environment|
+|模块名|支持平台|开发环境要求|
 |--|--|--|
 |ohos-streamsearch|OpenHarmony|DevEco Studio: 5.0.1 Release(5.0.5.315), SDK: API13(5.0.1.111)或更高版本|
 |streamsearch|Node.js|Node.js v10.0.0 或更高版本|

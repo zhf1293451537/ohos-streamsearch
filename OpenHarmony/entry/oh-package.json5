@@ -1,12 +1,12 @@
 {
   "name": "entry",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "example description",
   "main": "",
   "author": "",
   "license": "",
   "dependencies": {
-    "ohos_streamsearch": "file:../ohos_streamsearch"
+    "@Sett/ohos-streamsearch": "file:../ohos_streamsearch"
   }
 }
 

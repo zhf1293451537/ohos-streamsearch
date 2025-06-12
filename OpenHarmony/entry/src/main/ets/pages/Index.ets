@@ -1,5 +1,5 @@
 import buffer from '@ohos.buffer';
-import StreamSearch  from 'ohos_streamsearch'
+import StreamSearch  from '@Sett/ohos-streamsearch'
 
 @Entry
 @Component
@@ -21,9 +21,9 @@ struct Index {
 
           const ss = new StreamSearch(needle, (isMatch, data, start, end) => {
             if (data)
-              console.log('testzhf:: data: ' + data.toString('latin1', start, end));
+              console.log('data: ' + data.toString('latin1', start, end));
             if (isMatch)
-              console.log('testzhf:: match!');
+              console.log('match!');
           });
           const chunks = [
             'foo',
